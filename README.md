@@ -94,7 +94,7 @@ The results suggest that prolonged ICU stays can be predicted to some extent usi
 * `long-stay-machine-learning.ipynb`
   Python/Jupyter notebook containing XGBoost model development and evaluation.
 
-* `mimic-iii-icu-outcomes-report.pdf`
+* `mimic-iii-icu-outcomes-report.docx
   Full project report containing methodology, results, figures and discussion.
 
 ## Data
